@@ -1,7 +1,10 @@
+<img align="center" alt="Coding" width="auto" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
+
 <h1 align="center">Hello 🚀, I'm Kaviarasan J</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966" >
-<img align="right" alt="Coding" width="400" src="[Let's Code](https://camo.githubusercontent.com/cdd56b556149c7fd4939be631072a4df05be1346f52592296737a390d8159c85/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34372f66302f33342f34376630333432636563373262383030343633626630303365616331323537652e676966)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviarasan-j&label=Profile%20views&color=0e75b6&style=flat" alt="kaviarasan-j" /> </p>
 
