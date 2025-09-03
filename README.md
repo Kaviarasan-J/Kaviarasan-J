@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaviarasan-j&label=Profile%20views&color=0e75b6&style=flat" alt="kaviarasan-j" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaviarasan-j" alt="kaviarasan-j" /></a> </p>
-
 - 🔭 I’m currently working on [MERN Stack & UI/UX Projects](https://github.com/Kaviarasan-J)
 
 - 🌱 I’m currently learning **React, Redux, Node, Express, and MongoDB so on...**
